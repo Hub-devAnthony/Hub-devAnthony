@@ -8,7 +8,7 @@ I'm fascinated by the blend of science and technology, always curious, experimen
 
 ### 🏢 Currently Interning at:
 
-**DevSphere** - Where I'm Studying several aspects of software development including frontend, backend and mobile development and also proactively suggesting improvements where possible to improve developed applications' interfaces layout, responsiveness, animations and transitions.
+**DevSphere** - Where I'm studying several aspects of software development including frontend, backend and mobile development and also proactively suggesting improvements where possible to improve developed applications' interfaces layout, responsiveness, animations and transitions.
 
 ### 💻 Tech Stack
 
