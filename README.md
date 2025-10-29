@@ -14,7 +14,7 @@ I'm fascinated by the blend of science and technology, always curious, experimen
 
 **JavaScript** &middot; **React** &middot; **Tailwind CSS** &middot; **Git** &middot; **Vercel** &middot; **GitHub**
 
-##3 🧠 Top Languages 
+### 🧠 Top Languages 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hub-devAnthony&layout=compact&theme=radical)
 
