@@ -1,16 +1,26 @@
-## Hi there 👋
+![l-death-note-walking-most-beautiful-rain-21op78vvnogaho7v](https://github.com/user-attachments/assets/834ede2f-1914-4c5f-934c-ac9314f1d4a5)
 
-<!--
-**Hub-devAnthony/Hub-devAnthony** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Anthony,
 
-Here are some ideas to get you started:
+A Chemistry student 🧪 with an enthusiasm for Software Engineering 💻. I love solving problems - whether a tricky chemical equation or a stubborn piece of code. Who knew debugging could be as satisfying as balancing equations?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm fascinated by the blend of science and technology, always curious, experimenting, and learning. I enjoy turning challenges into creative solutions, and yes...sometimes my experiments explode but that's just part of the fun!
+
+### 🏢 Currently Interning at:
+
+**DevSphere** - Studying several aspects of software development including frontend, backend and mobile development.
+
+### 💻 Tech Stack
+
+**JavaScript** &middot; **React** &middot; **Tailwind CSS** &middot; **Git** &middot; **Vercel** &middot; **GitHub**
+
+##3 🧠 Top Languages 
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hub-devAnthony&layout=compact&theme=radical)
+
+### 🌐 Connect with Me
+
+- [Mail](mailto:isijolaayomikun04@gmail.com)
+- [Portfolio](http://anthonyyk.vercel.app/)
+- [LinkedIn](https://www.linkedin.com/in/ayomikun-i-399641352/)
+- [Medium](https://medium.com/@isijolaayomikun04)
